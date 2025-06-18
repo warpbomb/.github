@@ -1,4 +1,2 @@
-# Fluxwarp ⚡
-A new snail ide mod.
-
-Color : #FD8A25
+# Warpbomb ⚡
+A new snail ide mod named warpbomb owned by banana-mod.
